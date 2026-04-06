@@ -1,0 +1,36 @@
+Golden colors 
+#C6A75E
+#B8963A
+#D4AF37
+
+Secoden Accent
+#2A2A2A
+#3A5A7A
+#EDEDED
+
+Backgroun colors (Dark)
+#0A0A0A
+#121212
+#1A1A1A
+
+Typography:
+(A)Typography for the logo(name)
+    Playfair Display – Bold / SemiBold
+    Satoshi – Medium
+    Clash Display – SemiBold
+    Inter – Medium + Letter spacing
+Tips for the logo:
+  better to be 
+  Uppercase أو Title Case
+  adding : letter spacing بسيط (tracking)
+  أبيض أو ذهبي (hover)
+(B)Typography for the content
+1.Heading Fonts
+   Playfair Display
+   Clash Display
+   DM Serif Display
+   Satoshi
+2.Body Font
+   Inter
+   Poppins
+   Manrope
