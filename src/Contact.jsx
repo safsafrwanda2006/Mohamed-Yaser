@@ -25,6 +25,7 @@ function Contact() {
       projectType: "",
       discription: "",
     });
+    
   };
   return (
     <div className="contact" id="contact">
