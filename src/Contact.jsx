@@ -19,12 +19,12 @@ function Contact() {
     const whatsappUrl = `https://wa.me/250795926725?text=${encodeURIComponent(whatsappText)}`;
 
     window.open(whatsappUrl, "_blank");
-    setContactData = {
+    setContactData = ({
       fullName: "",
       email: "",
       projectType: "",
       discription: "",
-    };
+    });
   };
   return (
     <div className="contact" id="contact">
