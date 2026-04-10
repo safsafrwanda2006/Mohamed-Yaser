@@ -2,12 +2,12 @@ import React, { useState, useEffect, useRef } from "react";
 import "./Gellary.css";
 
 const firstThreeVideos=[
-  { id: 1, src: "/images/testV.mp4", title: "Cinematic Travel" },
+  { id: 1, src: "/videos/video1.mp4", title: "Cinematic Travel" },
   { id: 2, src: "/images/testV2.mp4", title: "Brand Story" },
   { id: 3, src: "/images/testV3.mp4", title: "Commercial Shot" },
 
   
-  { id: 1, src: "/images/testV.mp4", title: "Cinematic Travel" },
+  { id: 1, src: "/videos/video1.mp4", title: "Cinematic Travel" },
   { id: 2, src: "/images/testV2.mp4", title: "Brand Story" },
   { id: 3, src: "/images/testV3.mp4", title: "Commercial Shot" },
 ]
@@ -17,6 +17,7 @@ const videosData = [
   { id: 3, src: "/images/testV3.mp4", title: "Commercial Shot" },
   { id: 4, src: "/images/testV.mp4", title: "Creative Visual" },
   { id: 5, src: "/images/testV2.mp4", title: "Documentary Style" },
+  
 ];
 
 function Gellary() {
